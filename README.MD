@@ -4,7 +4,7 @@ SQLite is a self contained serverless, zero configuration database engine that i
 In this, we are goint to see basics of SQL and SQLite, including creating databases tables and performing various SQL operations.
 
 CRUD Operations:
-    1. Establish connection.
+    1. Establish connection.  
     1. Create table:
     2. Read/Fetch Data:
     3. Update table value
