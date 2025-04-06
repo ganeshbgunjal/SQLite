@@ -5,7 +5,7 @@ In this, we are goint to see basics of SQL and SQLite, including creating databa
 
 CRUD Operations:
     1. Establish connection.  
-    1. Create table:
-    2. Read/Fetch Data:
-    3. Update table value
+    1. Create table:    
+    2. Read/Fetch Data:  
+    3. Update table value  
     4. delete any specific record
